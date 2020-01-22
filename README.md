@@ -1,5 +1,5 @@
 # Tender-Tinder-for-Restaurants
-## By Vraj Patel, Noah Foster, Surya Podiutoori, Varun Tanna, Mark Drewery
+## By Vraj Patel, Noah Foster, Surya Poddutoori, Varun Tanna, Mark Drewery
 
 <h2>Getting started</h2>
 
